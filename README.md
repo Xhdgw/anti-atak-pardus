@@ -1,5 +1,5 @@
 # anti-atak-pardus
-Pardus tahtalarda e-kilit yazılımını kaldırmak için skript. anti-atak ismini şemsiye terim olarak kullanıyorum, 
+Etap/Pardus tahtalarda e-kilit yazılımını kaldırmak için skript. anti-atak ismini şemsiye terim olarak kullanıyorum, 
 Etap ve e-kilit ile bir alakası yok.
 
 # Kullanmadan önce
